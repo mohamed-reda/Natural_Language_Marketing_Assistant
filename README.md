@@ -1,4 +1,6 @@
-# Natural Language Marketing Assistan
+# Natural Language Marketing Assistant
+
+![Screenshot.png](Screenshot.png)
 
 ## Overview
 
